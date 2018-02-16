@@ -1,4 +1,4 @@
-var Node = require('./node');
+var Node = require('./nodes');
 var async = require('async');
 var Flags = require('commander');
 
