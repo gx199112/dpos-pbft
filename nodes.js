@@ -5,7 +5,7 @@ var protocol = require('./protocol');
 var Block = require('./block');
 var Transaction = require('./transaction');
 
-var PORT = 10000;
+var PORT = 20000;
 
 function Node(i, isBad) {
   this.id = i;
